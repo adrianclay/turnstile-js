@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^24.0.0"
+    "jest": "^24.3.1"
   }
 }
